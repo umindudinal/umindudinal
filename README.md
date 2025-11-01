@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umindudinal&label=Profile%20views&color=0e75b6&style=flat" alt="umindudinal" /> </p>
 
 
-<h1><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>About me</h1>
+<h1>🙋 About me</h1>
 <br>
 
 - 🔭 I’m currently studying in **Institute of Technology, University of Moratuwa**
@@ -16,7 +16,7 @@
 
 <br>
 
-<h1><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with me</h1>
+<h1>📱 Connect with me</h1>
 <br>
 <p align="center">
 	<a href="https://www.linkedin.com/in/umindu-dinal-212688375?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Buf60Fo07RbOL55pUbWwxPw%3D%3D" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/></a>
